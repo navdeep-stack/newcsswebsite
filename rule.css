@@ -1,0 +1,21 @@
+.top-container{
+	background-color:#708090;
+	height:200px;
+  width: 200px;
+  border: 10px;
+  padding: 20px;
+}
+
+.middle-container{
+	background-color:#c0c0c0;
+	height:200px;
+  width: 200px;
+  border: 20px;
+
+}
+.bottom-container{
+	background-color:#b0c4de;
+	height:200px;
+  width: 200px;
+  border: 10px;
+}
